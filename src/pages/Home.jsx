@@ -33,7 +33,7 @@ export default function Home() {
 					</Link>
 					<a
 						className="shadow-lg shadow-gray-200 inline-flex items-center px-8 py-3 bg-gray-100 text-gray-800 font-semibold rounded-lg hover:bg-gray-200 transition-all duration-200"
-						href="https://github.com/AvinashKumar3000/project-notes"
+						href="https://github.com/sureshchakkaravel/cms-project-final/tree/dev"
 						target="_blank"
 					>
 						Explore the code
